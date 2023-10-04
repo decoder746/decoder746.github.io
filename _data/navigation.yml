@@ -10,17 +10,11 @@ docs:
 - title: Publications
   url: publications.html
 
-# - title: Software
-#   url: software.html
-  
-- title: Available Projects
+- title: Projects
   url: available_projects.html
   
 - title: Teaching
   url: teaching.html
-  
-# - title: Mentoring
-#   url: mentoring.html
 
 - title: Contact
   url: contact.html

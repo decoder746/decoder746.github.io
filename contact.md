@@ -12,6 +12,6 @@ GDC 4.718B
 _**Phone**_<br>
 512 806-9015
 
-__**Linkedin**_<br>
+_**Linkedin**_<br>
 
 
