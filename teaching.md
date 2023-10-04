@@ -3,7 +3,7 @@ title: Teaching
 layout: default
 ---
 
-### The University of Texas in Austin
+<!-- ### The University of Texas in Austin
 - CSE 380: Tools and Techniques of Computational Science (**Fall 2022**)
 - Gene Golub SIAM Summer School: [*Inverse Problems: Systematic Integration of Data with Models under Uncertainty*](http://g2s3.com/), June 17-30, 2018, Brekenbridge, Colorado 
 - CSE 397/GEO 391/ME 397/ORI 397: [*Computational and Variational Methods for Inverse Problems*](https://uvilla.github.io/inverse17/) (**Fall 2017**, co-taught with Dr. Ghattas)
@@ -24,4 +24,13 @@ layout: default
 - Math 116: Life Science Calculus II (*Lab instructor*, **Spring 2010**)
 - Math 115: Life Science Calculus I (*Lab instructor*, **Fall 2010**)
 - Math 116: Life Science Calculus II (*Lab instructor*, **Spring 2010**)
-- Math 115: Life Science Calculus I (*Lab instructor*, **Fall 2009**)
+- Math 115: Life Science Calculus I (*Lab instructor*, **Fall 2009**) -->
+
+### The University of Texas in Austin
+- M427J: Differential Equations with Linear algebra (*Teaching Assistant*, **Fall 2023**)
+- CS380L: Advanced Operating Systems for OMSCS (*Teaching Assistant*, **Spring 2023**)
+
+### Indian Institute of Technology Bombay
+- DS203: Intoduction to data science (*Teaching Assistant*, **Spring 2021**)
+- CS763: Computer Vision (*Teaching Assistant*, **Fall 2020**)
+- CS101: Introduction to computer programming (*Teaching Assistant*, **Summer 2019**)
