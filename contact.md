@@ -12,6 +12,5 @@ GDC 4.718B
 _**Phone**_<br>
 512 806-9015
 
-_**Linkedin**_<br>
-
+_**[Linkedin](https://www.linkedin.com/in/anshul-tomar-4bba52169/)**_<br>
 
