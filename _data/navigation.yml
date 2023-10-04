@@ -10,8 +10,8 @@ docs:
 - title: Publications
   url: publications.html
 
-- title: Software
-  url: software.html
+# - title: Software
+#   url: software.html
   
 - title: Available Projects
   url: available_projects.html
@@ -19,8 +19,8 @@ docs:
 - title: Teaching
   url: teaching.html
   
-- title: Mentoring
-  url: mentoring.html
+# - title: Mentoring
+#   url: mentoring.html
 
 - title: Contact
   url: contact.html
